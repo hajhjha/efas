@@ -83,7 +83,7 @@ body {
     .image {
         width: 20%;
         vertical-align: middle;
-        padding-top: 200px;
+        padding-top: 100px;
     }
     .content {
         font-size: 20px;
@@ -91,7 +91,7 @@ body {
     .message {
         font-size: 12px;
         padding-top: 20px;
-        padding-bottom: 300px;
+        padding-bottom: 100px;
         line-height: 1.5;
     }
 }
