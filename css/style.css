@@ -91,6 +91,7 @@ body {
     }
     .content {
         font-size: 20px;
+        max-width: 80%;
     }
     .message {
         font-size: 12px;
